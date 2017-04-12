@@ -60,8 +60,6 @@ It is not a complete solution, but it works for the key scenarios described abov
 The PowerShell documentation team took that article, tweaked it, and turned it into a documentation page [here](https://msdn.microsoft.com/en-us/powershell/scripting/setup/ps-remoting-second-hop).
 
 This week I presented the topic and demos at the **PowerShell and DevOps Global Summit 2017**.
-You can catch the video on YouTube or Pluralsight once it goes live.
-Look for *PowerShell Remoting and Kerberos Double Hop: Old Problem - New Secure Solution*.
 The demos files and slides are available [on my GitHub here](https://github.com/GoateePFE/PshSummit2017).
 
 ## Two Solutions, One Module
